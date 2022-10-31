@@ -27,5 +27,27 @@ public class Main {
         System.out.println(dog);
         System.out.println(cat);
         System.out.println(paper);
+
+        System.out.println(" ");
+
+        var friend = 19;
+        System.out.println("Задание 4:");
+        System.out.println(friend);
+        friend += 2;
+        System.out.println(friend);
+        friend /= 7;
+        System.out.println(friend);
+
+        System.out.println(" ");
+
+        var frog = 3.5;
+        System.out.println("Задание 5:");
+        System.out.println(frog);
+        frog *= 10;
+        System.out.println(frog);
+        frog /= 3.5;
+        System.out.println(frog);
+        frog += 4;
+        System.out.println(frog);
     }
 }
